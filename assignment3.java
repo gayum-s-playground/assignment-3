@@ -104,6 +104,7 @@ public class assignment3{
             System.out.println("+"+"-".repeat(79)+"+");
             System.out.printf("|\tSE-00%s\t\t|\t%.2f\t\t|\t%s|\n",subjectCode3,marks3,result3);
             System.out.println("+"+"-".repeat(79)+"+");
+            
 
         }
         
